@@ -1,0 +1,3 @@
+[submodule "CMakeTrainAndroid"]
+	path = CMakeTrainAndroid
+	url = https://github.com/tck8888/CMakeTrainAndroid.git
