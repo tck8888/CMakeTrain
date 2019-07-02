@@ -9,3 +9,5 @@
 #### 查看子模块
 
 	git submodule
+
+### CMakeTrainVS模块
